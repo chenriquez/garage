@@ -28,7 +28,10 @@
 	<!-- <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet"> -->
 	
 	<!-- Animate.css -->
-	
+	<link rel="icon" href="<?php echo base_url('assets/fonts/themify-icons/themify.eot'); ?>" type="image/gif">
+	<link rel="icon" href="<?php echo base_url('assets/fonts/themify-icons/themify.ttf'); ?>" type="image/gif">
+	<link rel="icon" href="<?php echo base_url('assets/fonts/themify-icons/themify.svg'); ?>" type="image/gif">
+	<link rel="icon" href="<?php echo base_url('assets/fonts/themify-icons/themify.woff'); ?>" type="image/gif">
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/animate.css'); ?>">
 	<!-- Icomoon Icon Fonts-->
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/icomoon.css'); ?>">
@@ -45,7 +48,7 @@
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/flexslider.css'); ?>">
 	<!-- Theme style  -->
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/style.css'); ?>">
-
+	
 	<!-- Modernizr JS -->
 	
 	<script src="<?php echo base_url('assets/js/modernizr-2.6.2.min.js'); ?>"></script>
